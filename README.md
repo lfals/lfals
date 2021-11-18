@@ -1,5 +1,5 @@
 <h1>
-   Bom dia, bom dia 👋
+    <img src="./assets/opaxoro.svg" height="100" />Bom dia, bom dia 👋
     <h3>Hi, I'm Luis Amorim, aka Felps. A React & NestJS developer,  and artist in the spare time
 <h3>   
 </h1>

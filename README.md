@@ -1,5 +1,5 @@
 <h1>
-    <img src="./assets/opaxoro.svg" height="100" />Bom dia, bom dia 👋
+    <img src="./assets/opaxoro.svg" height="100"  />Bom dia, bom dia 👋
     <h3>Hi, I'm Luis Amorim, aka Felps. A React & NestJS developer,  and artist in the spare time
 <h3>   
 </h1>
@@ -11,6 +11,7 @@
 ## Languages:  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <p align="left"> 
+    <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="javascript" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="javascript" width="40" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="css3" width="40" height="40"/> 
      <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="css3" width="40" height="40"/> 
